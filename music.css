@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: bisque;
+}
+.app{
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   align-items: center;
+
+}
+header h1
+{
+   margin: 50px 0px 30px 0px;
+   text-align: center;
+   font-size: 50px;
+}
+header p{
+    font-size: 25px;
+}
+.clicks
+{
+    background: bisque;
+    width:100%;
+    display: flex;
+}
+.clicks >div
+{
+    height: 100px;
+    width: 100px;
+    flex: 1;
+}
+
+.clicks1
+{
+    background: lightskyblue;
+}
+.clicks2
+{
+  background: mediumspringgreen;
+}
+.clicks3
+{
+  background: plum;
+}
+.clicks4
+{
+    background: slateblue;
+}
+.clicks5
+{
+    background: teal;
+}
+.clicks6
+{
+    background: yellowgreen;
+}
