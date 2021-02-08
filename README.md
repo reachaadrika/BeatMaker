@@ -15,6 +15,11 @@ The sounds this simple Beatmaker includes are as follows :
  ![Screenshot (146)](https://user-images.githubusercontent.com/64789514/107245348-0f83ea80-6a55-11eb-94cb-a66a09a0ace3.png)
 
 
+#Link 
+ 
+ Try out the BeatMaker !! Here :
+  https://reachaadrika.github.io/BeatMaker/
+
 Hope You like this little application ! 
  
  
