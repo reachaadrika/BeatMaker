@@ -1,4 +1,4 @@
-# Music-App
+# BeatMaker!!
 
 This is a Simple Web Beatmaker , built using Vanilla Javascript , Html and CSS . 
 You can play any sound by clicking on the respective color. 
