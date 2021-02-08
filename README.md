@@ -10,6 +10,11 @@ The sounds this simple Beatmaker includes are as follows :
  5. Ticking Clock(corresponding to Teal)
  6. Alarm Tone (correspong to Yellow Green)
  
+ # Preview 
+ 
+ ![Screenshot (146)](https://user-images.githubusercontent.com/64789514/107245348-0f83ea80-6a55-11eb-94cb-a66a09a0ace3.png)
 
+
+Hope You like this little application ! 
  
  
